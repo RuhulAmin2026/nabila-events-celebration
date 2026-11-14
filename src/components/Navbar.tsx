@@ -28,7 +28,7 @@ export function Navbar({ user, onOpenAuth, onOpenDashboard }: NavbarProps) {
           className="inline-flex items-center bg-white rounded-lg px-2.5 py-1 shrink-0 shadow-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#4B93FF]"
         >
           <img
-            public="/assets/logo/Nabila_Events_Celebration_Logo_e40d021a.png"
+            src="/assets/logo/Nabila_Events_Celebration_Logo_e40d021a.png"
             alt="Nabila Events Celebration"
             className="h-8 sm:h-9 w-auto object-contain"
           />
