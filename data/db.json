@@ -1,0 +1,276 @@
+{
+  "events": [
+    {
+      "id": "evt-1",
+      "title": "Echoes Electric Arena Tour",
+      "category": "Concert",
+      "date": "2026-09-14",
+      "location": "Los Angeles, CA",
+      "guests": 6500,
+      "summary": "Full-scale arena production featuring synchronized laser arrays, timecoded LED stage walls, and spatial L-Acoustics sound engineering.",
+      "highlights": [
+        "180ft Panoramic LED Backdrop",
+        "Timecoded DMX Laser Rig",
+        "Zero-latency Broadcast Feed"
+      ],
+      "imageKey": "pink_stage_performers",
+      "featured": true,
+      "createdAt": "2026-09-14T18:00:00.000Z"
+    },
+    {
+      "id": "evt-2",
+      "title": "Aurora Garden Charity Gala",
+      "category": "Gala",
+      "date": "2026-08-22",
+      "location": "Napa Valley, CA",
+      "guests": 620,
+      "summary": "Twilight outdoor estate celebration with custom draped canopies, acoustic string quartet amplification, and seamless VIP table service.",
+      "highlights": [
+        "Custom Canopy & Bistro Lighting",
+        "Live Auction Display",
+        "Multi-Course Hospitality Flow"
+      ],
+      "imageKey": "outdoor_gala_lights",
+      "createdAt": "2026-08-22T17:00:00.000Z"
+    },
+    {
+      "id": "evt-3",
+      "title": "Heritage Grand Ballroom Awards",
+      "category": "Gala",
+      "date": "2026-07-19",
+      "location": "Chicago, IL",
+      "guests": 940,
+      "summary": "Black-tie annual leadership recognition banquet featuring warm architectural uplighting, floral installations, and broadcast-grade stage cues.",
+      "highlights": [
+        "90-Table Precision Seating",
+        "Warm Architectural Uplighting",
+        "Live Teleprompter & Stage Cueing"
+      ],
+      "imageKey": "banquet_wedding_ballroom",
+      "createdAt": "2026-07-19T19:30:00.000Z"
+    },
+    {
+      "id": "evt-4",
+      "title": "Horizon Sunset Music Festival",
+      "category": "Festival",
+      "date": "2026-06-11",
+      "location": "Austin, TX",
+      "guests": 8200,
+      "summary": "Open-air sunset festival stage engineered for rapid artist changeovers, high-SPL outdoor dispersion, and festival crowd safety.",
+      "highlights": [
+        "Dual Rolling Risers for 12-Min Turnarounds",
+        "Weather-Rated Line Array Rig",
+        "RFID Cashless Gate Integration"
+      ],
+      "imageKey": "golden_festival_stage",
+      "createdAt": "2026-06-11T16:00:00.000Z"
+    },
+    {
+      "id": "evt-5",
+      "title": "Meridian Global Tech Summit",
+      "category": "Conference",
+      "date": "2026-05-04",
+      "location": "San Francisco, CA",
+      "guests": 2400,
+      "summary": "Multi-track enterprise keynote conference with simultaneous interpretation booths, hybrid live-streaming, and interactive expo lounges.",
+      "highlights": [
+        "4 Concurrent Breakout Stages",
+        "Global 4K Livestream Production",
+        "Badge Check-in Under 12 Seconds"
+      ],
+      "imageKey": "conference_keynote_audience",
+      "createdAt": "2026-05-04T09:00:00.000Z"
+    },
+    {
+      "id": "evt-6",
+      "title": "Harborfront Waterfront Showcase",
+      "category": "Corporate",
+      "date": "2026-04-16",
+      "location": "Boston, MA",
+      "guests": 1150,
+      "summary": "Architectural glass pavilion brand reveal illuminated with custom magenta structural washes and waterfront cocktail terraces.",
+      "highlights": [
+        "Custom Architectural LED Wash",
+        "Waterfront VIP Lounge Deck",
+        "Interactive Product Demo Pods"
+      ],
+      "imageKey": "pavilion_evening_lights",
+      "createdAt": "2026-04-16T18:00:00.000Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Volumetric Arena Laser Matrix",
+      "category": "Concert",
+      "venue": "Metro Dome, Los Angeles",
+      "imageKey": "concert_laser_crowd",
+      "aspect": "tall"
+    },
+    {
+      "id": "gal-2",
+      "title": "Headliner Mainstage Rig",
+      "category": "Concert",
+      "venue": "Pier 27 Pavilion, SF",
+      "imageKey": "pink_stage_performers",
+      "aspect": "tall"
+    },
+    {
+      "id": "gal-3",
+      "title": "Twilight Garden Canopy Gala",
+      "category": "Gala",
+      "venue": "Meadowood Estate, Napa",
+      "imageKey": "outdoor_gala_lights",
+      "aspect": "wide"
+    },
+    {
+      "id": "gal-4",
+      "title": "Waterfront Glass Pavilion Illumination",
+      "category": "Corporate",
+      "venue": "Harborview Hall, Boston",
+      "imageKey": "pavilion_evening_lights",
+      "aspect": "tall"
+    },
+    {
+      "id": "gal-5",
+      "title": "Golden Hour Festival Stage",
+      "category": "Festival",
+      "venue": "Zilker Parklands, Austin",
+      "imageKey": "golden_festival_stage",
+      "aspect": "wide"
+    },
+    {
+      "id": "gal-6",
+      "title": "Executive Keynote Auditorium",
+      "category": "Conference",
+      "venue": "Moscone West, San Francisco",
+      "imageKey": "conference_keynote_audience",
+      "aspect": "wide"
+    },
+    {
+      "id": "gal-7",
+      "title": "Grand Timber Ballroom Dinner",
+      "category": "Gala",
+      "venue": "Union Hall, Chicago",
+      "imageKey": "banquet_wedding_ballroom",
+      "aspect": "wide"
+    },
+    {
+      "id": "gal-8",
+      "title": "Executive Networking Reception",
+      "category": "Corporate",
+      "venue": "Foundry Lounge, New York",
+      "imageKey": "networking_cocktail_guests",
+      "aspect": "square"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-83cc92f8",
+      "ticketCode": "NE-2043",
+      "name": "Ruhul Amin",
+      "phone": "23423534564654",
+      "message": "huyfgerygfierygoierypg9eryoigerg",
+      "status": "Scheduled",
+      "createdAt": "2026-11-14T14:48:07.503Z"
+    },
+    {
+      "id": "inq-1",
+      "ticketCode": "NE-2041",
+      "name": "Tasnim Chowdhury",
+      "phone": "+880 1711-248910",
+      "message": "Planning a 1,500-person annual corporate summit in October with mainstage LED wall and 3 breakout tracks.",
+      "status": "Scheduled",
+      "createdAt": "2026-11-10T14:22:00.000Z"
+    },
+    {
+      "id": "inq-2",
+      "ticketCode": "NE-2042",
+      "name": "Rafiqul Islam",
+      "phone": "rafiq@dhakacapital.com",
+      "message": "Looking for full lighting, floral staging, and live acoustic setup for our winter charity gala.",
+      "status": "Reviewed",
+      "createdAt": "2026-11-12T09:15:00.000Z"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "title": "Corporate Summits & Keynotes",
+      "subtitle": "Precision multi-track conferences and product launches",
+      "deliverables": [
+        "Custom 4K panoramic LED stage design",
+        "Multi-camera hybrid broadcast & live captioning",
+        "Executive speaker green-room & cue direction"
+      ],
+      "turnaround": "4–8 weeks lead time"
+    },
+    {
+      "id": "exp-2",
+      "title": "Live Concerts & Festivals",
+      "subtitle": "High-impact touring, arena, and outdoor festival production",
+      "deliverables": [
+        "Timecoded DMX lighting & volumetric laser shows",
+        "Line-array acoustic modeling for indoor/outdoor venues",
+        "Artist hospitality, backline & rapid stage changeovers"
+      ],
+      "turnaround": "3–12 weeks lead time"
+    },
+    {
+      "id": "exp-3",
+      "title": "Luxury Galas & Hospitality",
+      "subtitle": "Bespoke architectural lighting, dining, and donor experiences",
+      "deliverables": [
+        "Custom tented canopies & warm architectural washes",
+        "Live pledge boards & synchronized audio cues",
+        "End-to-end vendor, catering & valet choreography"
+      ],
+      "turnaround": "2–6 weeks lead time"
+    }
+  ],
+  "resources": [
+    {
+      "id": "res-1",
+      "title": "Event Run-of-Show Schedule",
+      "format": "Interactive Checklist · 24 Checkpoints",
+      "description": "Minute-by-minute cue template covering load-in, soundcheck, doors open, keynote transitions, and strike.",
+      "checklist": [
+        "Lock rigging plots & power distribution 21 days out",
+        "Confirm artist/speaker slide decks & aspect ratios 72h prior",
+        "Run full-dress audio + DMX lighting cue rehearsal on T-1 day"
+      ]
+    },
+    {
+      "id": "res-2",
+      "title": "Venue AV & Rigging Rider Guide",
+      "format": "Technical Spec Sheet · Audio / Video / Power",
+      "description": "Standardized stage dimensions, 3-phase power requirements, truss load limits, and fiber backbone specs.",
+      "checklist": [
+        "Verify 200A 3-phase cam-lok tie-in availability",
+        "Measure ceiling trim height & rigging point capacities",
+        "Allocate dedicated 1Gbps symmetrical upload line for streams"
+      ]
+    },
+    {
+      "id": "res-3",
+      "title": "Guest Experience & Crowd Flow Kit",
+      "format": "Operations Blueprint · Registration to Exit",
+      "description": "Queue-busting check-in ratios, ADA accessibility routing, acoustic zoning, and emergency egress protocols.",
+      "checklist": [
+        "Deploy 1 check-in scanner per 180 arriving guests",
+        "Separate VIP hospitality lanes from general admission gates",
+        "Position directional illuminated signage at every decision point"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-organizer",
+      "name": "Nabila Rahman (Lead Producer)",
+      "email": "admin@nabilaevents.com",
+      "role": "organizer",
+      "salt": "f33368573460bc2cb84888d687791928",
+      "passwordHash": "96dfecae896a92eaf5b37b221b2f84be9bb461f2478beda2561854f9d649597f430c287c6dd0d7753a3eef84348320fd1313f575e851db0273c124608181ff3d"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nabila Events Celebration",
+  "description": "Full-stack event production and management platform with Express backend and Firebase-ready architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
